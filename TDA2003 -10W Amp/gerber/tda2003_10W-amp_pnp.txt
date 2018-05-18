@@ -1,0 +1,67 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=tda2003_10W-amp
+*Date=13:21:58
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;34.1489;-17.4785;135;Bottom;39Ω
+2;;;17.9212;-8.02397;0;Bottom;Hole10
+3;;THT;40.7811;-33.2717;0;Bottom;J94
+4;;;42.0511;-6.33077;-90;Bottom;TXT9
+5;220;THT;39.3051;-24.0898;180;Bottom;220Ω
+6;;;4.2926;-27.2392;0;Bottom;Copper Fill17
+7;;;17.9212;-49.934;0;Bottom;Hole7
+8;220;THT;32.7683;-33.7227;90;Bottom;2Ω2
+9;;;26.67;-51.7685;-90;Bottom;TXT9
+10;;;65.3344;-36.2463;0;Bottom;TXT9
+11;;;61.7601;-44.6001;0;Bottom;Copper Fill12
+12;100nF;200 mil [THT, multilayer];15.8967;-24.4664;90;Bottom;100nF
+13;;;29.21;-12.2151;0;Bottom;Copper Fill8
+14;;;38.1762;-52.5376;0;Bottom;Copper Fill21
+15;;;6.0325;-15.6695;0;Bottom;Copper Fill14
+16;;;63.9445;-28.3949;0;Bottom;Copper Fill9
+17;;;20.32;-31.8493;0;Bottom;Copper Fill2
+18;;;6.77333;-21.9941;0;Bottom;TXT9
+19;1µF;200 mil [THT, electrolytic];23.7888;-31.5959;90;Bottom;1000µF
+20;;;33.401;-24.3309;0;Bottom;Copper Fill3
+21;;;42.1922;-51.6274;-90;Bottom;TXT9
+22;;THT;6.61642;-29.781;0;Bottom;J95
+23;;;35.6362;-52.5376;0;Bottom;Copper Fill20
+24;;THT;34.264;-6.16637;-90;Bottom;J97
+25;;;52.2112;-8.02397;0;Bottom;Hole9
+26;;;5.5753;-28.4965;0;Bottom;Copper Fill16
+27;220;THT;11.1308;-16.7496;180;Bottom;1Ω
+28;;;44.6024;-13.4597;0;Bottom;Copper Fill7
+29;;;52.2112;-49.934;0;Bottom;Hole11
+30;;;54.864;-29.1696;0;Bottom;Copper Fill11
+31;;;21.1074;-25.3977;0;Bottom;Copper Fill4
+32;;;62.5856;-43.6476;0;Bottom;Copper Fill13
+33;;THT;43.6637;-33.2737;0;Bottom;TDA2003
+34;100nF;200 mil [THT, multilayer];40.193;-17.6679;108.261;Bottom;39nF
+35;;;5.1308;-16.8252;0;Bottom;Copper Fill15
+36;;;34.8742;-28.8013;0;Bottom;Copper Fill1
+37;1µF;200 mil [THT, electrolytic];25.2216;-18.1855;90;Bottom;470µF
+38;;;65.2018;-27.1376;0;Bottom;Copper Fill10
+39;;;27.0933;-6.04854;-90;Bottom;TXT9
+40;100nF;200 mil [THT, multilayer];53.4712;-29.0891;-6.36109e-14;Bottom;100nF
+41;;;36.9189;-53.7949;0;Bottom;Copper Fill19
+42;;THT;34.5982;-51.4582;90;Bottom;J98
+43;;;6.8326;-27.2392;0;Bottom;Copper Fill18
+44;1µF;100 mil [THT, electrolytic];49.747;-43.3959;180;Bottom;10µF
+45;;;18.9795;-42.4846;0;Bottom;TXT10
+46;;;64.4878;-21.7119;0;Bottom;TXT9
+47;;;22.8346;-16.2283;0;Bottom;Copper Fill5
+48;;trim_pot_pth;59.2709;-41.0636;-90;Bottom;10KΩ
+49;100nF;200 mil [THT, electrolytic];52.2111;-19.4541;180;Bottom;100µF
+50;;THT;62.959;-29.4472;180;Bottom;J96
+51;;;35.0012;-14.2217;0;Bottom;Copper Fill6
+52;;;6.91444;-36.2463;0;Bottom;TXT9
